@@ -11,13 +11,10 @@ const App = () => {
   const user1={
     name:'Kovid',
     age:22,
-    gender:'male'
-  }
-  const user2={
-    name:'Aditi',
-    age:22,
     gender:'female'
   }
+  
+  
 
 
 
